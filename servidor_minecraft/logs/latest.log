@@ -1,0 +1,101 @@
+[22Jan2026 00:16:43.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:61771] logged in with entity id 130200 at (-3361.856389177443, 88.0, -1241.0678224400328)
+[22Jan2026 00:16:43.213] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[22Jan2026 00:16:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[22Jan2026 00:16:43.223] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[22Jan2026 00:16:44.595] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[22Jan2026 00:16:44.595] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[22Jan2026 00:16:52.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[22Jan2026 00:16:53.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[22Jan2026 00:16:53.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[22Jan2026 01:23:05.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.224.155.96:49581] logged in with entity id 139368 at (-945.3348468270585, 52.0, 45.559792873086685)
+[22Jan2026 01:23:05.515] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[22Jan2026 01:23:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[22Jan2026 01:23:05.523] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[22Jan2026 01:23:06.101] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[22Jan2026 01:23:06.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[22Jan2026 01:23:08.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:23:09.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:23:09.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[22Jan2026 01:23:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> victor
+[22Jan2026 01:23:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> tengo tu helicoptero
+[22Jan2026 01:23:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> mmhv
+[22Jan2026 01:23:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> ok voy
+[22Jan2026 01:24:03.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso lost connection: Disconnected
+[22Jan2026 01:24:03.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso left the game
+[22Jan2026 01:24:03.697] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coronelperroso
+[22Jan2026 01:24:14.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.224.155.96:49650] logged in with entity id 139771 at (-955.0108850937039, 52.0, 32.485144408730086)
+[22Jan2026 01:24:14.966] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[22Jan2026 01:24:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[22Jan2026 01:24:14.987] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[22Jan2026 01:24:15.132] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[22Jan2026 01:24:15.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[22Jan2026 01:24:16.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:24:17.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:24:17.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[22Jan2026 01:25:00.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[22Jan2026 01:25:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[22Jan2026 01:25:00.496] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[22Jan2026 01:25:05.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:54152] logged in with entity id 139826 at (-961.8910305999428, 45.0, 48.433440305937616)
+[22Jan2026 01:25:05.265] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[22Jan2026 01:25:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[22Jan2026 01:25:05.291] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[22Jan2026 01:25:05.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[22Jan2026 01:25:05.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[22Jan2026 01:25:08.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[22Jan2026 01:25:09.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[22Jan2026 01:25:09.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[22Jan2026 01:25:18.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso lost connection: Disconnected
+[22Jan2026 01:25:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso left the game
+[22Jan2026 01:25:18.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coronelperroso
+[22Jan2026 01:25:27.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.224.155.96:59367] logged in with entity id 139883 at (-964.6999999880791, 45.0, 49.20082892002453)
+[22Jan2026 01:25:27.066] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[22Jan2026 01:25:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[22Jan2026 01:25:27.091] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[22Jan2026 01:25:27.232] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[22Jan2026 01:25:27.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[22Jan2026 01:25:28.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:25:29.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[22Jan2026 01:25:29.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[22Jan2026 01:35:46.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino has made the advancement [An Ear-Shattering Roar]
+[22Jan2026 01:35:56.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino has made the advancement [The Song of the Dragons]
+[22Jan2026 01:49:35.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[22Jan2026 01:49:37.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[22Jan2026 01:50:02.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sr_Riva[/10.224.155.209:50641] logged in with entity id 142402 at (-729.0034285583561, 66.0, -327.83707042107983)
+[22Jan2026 01:50:02.310] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sr_Riva
+[22Jan2026 01:50:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva joined the game
+[22Jan2026 01:50:02.326] [Server thread/INFO] [Jade/]: Syncing config to Sr_Riva (ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2)
+[22Jan2026 01:50:03.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sr_Riva (20)
+[22Jan2026 01:50:03.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sr_Riva
+[22Jan2026 01:50:08.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2
+[22Jan2026 01:50:09.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2
+[22Jan2026 01:50:09.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sr_Riva (ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2) successfully connected to voice chat
+[22Jan2026 01:50:45.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[22Jan2026 01:54:02.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[22Jan2026 01:57:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> riva
+[22Jan2026 01:57:35.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> te necesitamos
+[22Jan2026 01:57:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> que paso?
+[22Jan2026 01:57:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> nos ocurrio un bug
+[22Jan2026 01:58:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> y perdimos objetos rotos
+[22Jan2026 01:58:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> que crafteamos
+[22Jan2026 01:58:07.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[22Jan2026 01:58:11.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[22Jan2026 01:58:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> que paso?
+[22Jan2026 01:59:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> osea detecto un esqueleto de dragon de hielo?
+[22Jan2026 01:59:47.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> cual es la perdida?
+[22Jan2026 01:59:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> escribelo en el chat
+[22Jan2026 02:00:00.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> mañana se conectara omegaplatanos
+[22Jan2026 02:00:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> hoy ya no puede
+[22Jan2026 02:00:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> !tiekt
+[22Jan2026 02:00:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> !tiket
+[22Jan2026 02:00:25.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> se perdieron por un bug 3 ojos de dragon de hielo
+[22Jan2026 02:00:28.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:53150] logged in with entity id 146564 at (-3437.5258723717584, 99.5, -1226.230273235196)
+[22Jan2026 02:00:28.210] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[22Jan2026 02:00:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[22Jan2026 02:00:28.216] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[22Jan2026 02:00:29.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[22Jan2026 02:00:29.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[22Jan2026 02:00:37.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> los necesitamos recuperar
+[22Jan2026 02:00:41.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[22Jan2026 02:00:42.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[22Jan2026 02:00:42.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[22Jan2026 02:02:23.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy moved wrongly!
